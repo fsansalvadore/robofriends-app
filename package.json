@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fsansalvadore/robofriends-app/issues"
   },
-  "homepage": "https://github.com/fsansalvadore/robofriends-app#readme"
+  "homepage": "https://github.com/fsansalvadore/robofriends-app#readme",
+  "dependencies": {
+    "tachyons": "^4.11.1"
+  }
 }
